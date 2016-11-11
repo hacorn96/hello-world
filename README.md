@@ -3,24 +3,36 @@ My First Repository
 
 This is my learning path:
 
-1. Basics
+Basics
 
-2. HTML (I am here)
+1. Internet
 
-3. CSS
+2. Web Development
 
-4. JavaScrip
+Programming Languages:
 
-5. Python
+1. HTML
 
-6. Design
+2. CSS
 
-7. Command Line
+3. JavaScript
 
-8. Git and GitHub
+4. Python
 
-9. CSS Frameworks (Bootstrap and Foundation)
+Basics 2:
 
-10. CSS Preprocessors (Sass, Less and Foundation)
+1. Design
 
-11. JavaScript Libraries (starting with JQuery)
+2. Command Line
+
+3. Git and GitHub
+
+4. More about the Internet
+
+Tools:
+
+1. CSS Frameworks (Bootstrap and Foundation)
+
+2. CSS Preprocessors (Sass, Less and Stylus)
+
+3. JavaScript Libraries (starting with JQuery)
